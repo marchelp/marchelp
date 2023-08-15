@@ -1,4 +1,11 @@
-### Hi there 👋
+# Halo Semua!
+
+Perkenalkan nama saya Marchel Adias Pradana
+
+Saya adalah seorang Mahasiswa yang sedang menempuh pendidikan di Universitas Pembangunan Negeri "VETERAN" Jawa Timur program studi Informatika. 
+Saya sangat senang dalam mempelajari hal - hal yang berbau teknologi. Impian saya untuk saat ini ialah menjadi Web Developer Profesional.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/marchelp/)ku ya.
 
 <!--
 **marchelp/marchelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
